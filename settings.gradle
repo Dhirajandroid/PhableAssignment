@@ -1,0 +1,2 @@
+rootProject.name='PhableAssignment'
+include ':app'
